@@ -1,11 +1,14 @@
 AUTHOR = 'jctech'
-SITENAME = 'Website Design Demo'
+SITENAME = 'Website Design Demo bootstrap2 dark'
 SITEURL = ''
 SITESUBTITLE = 'Alchemy Theme'
 SITEIMAGE  = '/images/demo.JPG'
-PATH = 'content'
-THEME = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/pelican-themes/alchemy/alchemy'
-OUTPUT_PATH = 'theme-alchemy-output/'
+
+THEME = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/pelican-themes/bootstrap2-dark'
+
+OUTPUT_PATH = 'output-another-website'
+PATH = 'content' # input path default "content"
+
 TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
